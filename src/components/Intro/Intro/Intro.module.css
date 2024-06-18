@@ -1,0 +1,8 @@
+.heading{
+    margin-top:8%;
+    background-image: linear-gradient(to left, orange,purple,blue);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 20px;
+    text-align: center;
+  }
