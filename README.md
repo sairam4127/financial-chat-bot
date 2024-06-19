@@ -9,7 +9,7 @@
 - **we can either click send button or just click the enter button:**
 - **search input will handle empty and unrecognized errors:**
 - **chat bot will show the history of our chat in sequence like chatgpt and google gemini:**
-- **:**
+
 
 ### Questions should be typed 
 - **what is a mutual fund**
