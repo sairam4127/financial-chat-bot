@@ -1,8 +1,17 @@
-# React + Vite
+# Financial Chat Bot Using ReactJs + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**How To Use:**
+1. clone the repo
+2. install dependencies with npm install
+3. run the server by npm run dev
 
-Currently, two official plugins are available:
+## Features 
+- **we can either click send button or just click the enter button:**
+- **search input will handle empty and unrecognized errors:**
+- **chat bot will show the history of our chat in sequence like chatgpt and google gemini:**
+- **:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Questions should be typed 
+- **what is a mutual fund**
+- **How does compound interest work**
+- **explain the difference between stocks and bonds**
